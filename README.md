@@ -1,3 +1,4 @@
+Протестированно, работает(все, кроме кастомизации splash экрана при запуске OrangeFox).
 # compile OrangeFox Recovery with Github Actions
 ```
 only Supports OrangeFox  (14.1 is not ready yet) / 12.1 / 11 
